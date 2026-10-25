@@ -9,24 +9,24 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/ztjklt/medlink-web">
-        <img src="https://raw.githubusercontent.com/ztjklt/medlink-web/main/docs/images/medlink-home.png" alt="MedLink AI" />
+      <a href="https://github.com/ztjklt/medlink-web-showcase">
+        <img src="https://raw.githubusercontent.com/ztjklt/medlink-web-showcase/main/docs/images/medlink-home.png" alt="MedLink AI" />
       </a>
       <h3>MedLink AI</h3>
       <p>将分散病历整理为患者授权的急救卡与门诊转诊摘要。</p>
       <p><code>React</code> <code>TypeScript</code> <code>AI Agent</code> <code>NFC</code></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/ztjklt/wordcaster">
-        <img src="https://raw.githubusercontent.com/ztjklt/wordcaster/main/public/social-preview.png" alt="Word Caster" />
+      <a href="https://github.com/ztjklt/wordcaster-showcase">
+        <img src="https://raw.githubusercontent.com/ztjklt/wordcaster-showcase/main/public/social-preview.png" alt="Word Caster" />
       </a>
       <h3>Word Caster</h3>
       <p>让英语词语成为魔法：融合语音施法、学习与像素守城玩法。</p>
       <p><code>TypeScript</code> <code>Voice</code> <code>Game</code> <code>Web Audio</code></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/ztjklt/Silence">
-        <img src="https://raw.githubusercontent.com/ztjklt/Silence/main/docs/images/silence-home.png" alt="SILENCE" />
+      <a href="https://github.com/ztjklt/Silence-showcase">
+        <img src="https://raw.githubusercontent.com/ztjklt/Silence-showcase/main/docs/images/silence-home.png" alt="SILENCE" />
       </a>
       <h3>寂静 / SILENCE</h3>
       <p>围绕空间音频、记忆与时间循环构建的移动端解谜逃生游戏。</p>
@@ -34,6 +34,16 @@
     </td>
   </tr>
 </table>
+
+## More Projects
+
+- [About Me](https://github.com/ztjklt/About-Me-showcase) — 把自我介绍变成道具的 3D Persona 派对游戏。
+- [勿忘我 · Remember Me](https://github.com/ztjklt/Remember-Me-showcase) — 围绕人生讲述、记忆花园和有据对话的 AI 产品。
+- [Lamp](https://github.com/ztjklt/Lamp-showcase) — 帮助确定下一步行动的 iPhone 个人规划助手。
+- [细胞战争 · CELL WAR](https://github.com/ztjklt/cell-war-showcase) — 以人体为战场的生存即时战略游戏。
+- [指尖 / 纸间](https://github.com/ztjklt/zhijian) — 在纸面世界中绘画、造物与物理搭建。
+
+公开仓库用于作品展示，收录项目介绍、截图、海报和演示视频；项目源码不公开。
 
 ## What I Care About
 
